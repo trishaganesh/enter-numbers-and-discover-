@@ -1,0 +1,17 @@
+
+  textarea {
+    resize: none;
+    overflow: hidden;
+    width: 100%;
+    min-height: 40px;
+}
+lable {
+    font-weight: bold;
+}
+
+#footer {
+    text-align: center;
+}
+button {
+    margin-bottom: 9px;
+}
